@@ -1,0 +1,15 @@
+Could be the same 14 codes that I used for my database: 
+Pacific-NW_Pacific
+Atlantic-SE_Atlantic
+Atlantic-SW_Atlantic
+Pacific-SE_Pacific
+Pacific-SW_Pacific
+Indian-NE_Indian
+Indian-NW_Indian
+Indian-SE_Indian
+Indian-SW_Indian
+Arctic
+Mediterranean&Black_sea
+Atlantic-NE_Atlantic
+Atlantic-NW_Atlantic
+Pacific-NE_Pacific
