@@ -1,0 +1,13 @@
+name: wildmeat
+title: wildmeat
+username:
+account: aquaticbushmeat
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 247956
+bundleId: 3355589
+url: https://aquaticbushmeat.shinyapps.io/wildmeat/
+when: 1593990865.63283
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: bushmeat.db.sqbpro|bushmeat20190303.db|bushmeat20190320.db|bushmeat20190321.db|bushmeat20190322.db|bushmeatMoreShit.db|bushmeatShit.db
